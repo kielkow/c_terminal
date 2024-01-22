@@ -1,0 +1,6 @@
+ACESSAR/ALTERAR VARIAVÉIS DE AMBIENTE DA MÁQUINA:
+-> nano ~/.bashrc
+fazer alterações...
+-> salvar: Crtl + 0
+-> Enter
+-> sair: Crtl + X
